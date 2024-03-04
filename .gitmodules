@@ -1,6 +1,6 @@
 [submodule "petalinux/docker-petalinux"]
 	path = petalinux/docker-petalinux
-	url = https://github.com/ngc6027/docker-petalinux.git
+	url = git@github.com:ngc6027/docker-petalinux.git
 [submodule "petalinux/docker-petalinux2"]
 	path = petalinux/docker-petalinux2
-	url = https://github.com/ngc6027/docker-petalinux2.git
+	url = git@github.com:ngc6027/docker-petalinux2.git
